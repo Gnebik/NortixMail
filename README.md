@@ -1,6 +1,3 @@
-# I'm open to work
-see my github profile for my email
-
 # Nortix Mail
 Please star this repo if you find it useful, thank you!
 ![image](https://github.com/user-attachments/assets/625d9d45-75e9-43f5-8264-57d2ed7ee7d8)
